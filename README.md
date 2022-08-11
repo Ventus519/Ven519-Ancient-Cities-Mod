@@ -9,8 +9,6 @@ Update 0.0.1b (2022/08/10)
 * NAC1-Forge: Nether Ancient Cities would generate in lava at y=0 and fail to cooperate
 * NAC2-Files: city_center_3 was left with default scheme
 # Needed: 
-* the entirety of the "walls" folder
-* the entirety of the "structures" folder
 * NAC3-Forge: Nether Ancient Cities would generate with default sculk patches
 * NAC4-Entities: Nether Ancient Cities would generate without being able to summon wardens
 * implementation of nether-type-sculk
